@@ -1,0 +1,8 @@
+TV | 15000 | 100
+RAM 4GB | 2500 | 710
+RAM 8GB | 5400 | 550
+Intel Core i5 12gen | 25000 | 60
+Intel Core i5 10gen | 19000 | 90
+RAM 16GB | 8000 | 618
+Asus Motherboard | 19000 | 165
+Gigabyte Motherboard | 17500 | 330
